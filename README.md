@@ -14,13 +14,6 @@ Traditional FICO misses 90 %+ of crypto-native users. Our blended data fills tha
 * Synthetic minority over-sampling (SMOTE) applied to cure class imbalance.
 * Crypto linkage hashed & salted; zero PII leaves our servers.
 
-## 🔧 Usage Examples
-```python
-from seqcredit import CreditModel
-model = CreditModel.load("v1.2")
-score = model.predict(user_features)
-print(score.shap_top_drivers())
-```
 ## 📈 Benchmark Accuracy
 
 | Model                                          | AUC      | KS       | F1       |
