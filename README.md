@@ -19,7 +19,7 @@ Traditional FICO misses 90 %+ of crypto-native users. Our blended data fills tha
 | Model                                          | AUC      | KS       | F1       |
 | ---------------------------------------------- | -------- | -------- | -------- |
 | **Sequential XGB-SHAP**                        | **0.92** | **0.68** | **0.87** |
-| Public RF baseline                             | 0.88     | 0.59     | 0.80     |
+| Public RF baseline                             | 0.88     | 0.59     | 0.71     |
 | |          |          |          |
 
 ## ☎️ Contact
